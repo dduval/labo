@@ -1,0 +1,218 @@
+Numéro tarifaire Position du Système harmonisé (SH)
+0105.11.22 Coqs, poules, canards, oies, dindons, dindes et pintades, vivants, des espèces domestiques.
+0207.11.91 Viandes et abats comestibles, frais, réfrigérés ou congelés, des volailles du no 01,05.
+0209.90.10 Lard sans parties maigres, graisse de porc et graisse de volailles non fondues ni autrement extraites, frais, réfrigérés, congelés, salés ou en saumure, séchés ou fumés.
+0210.99.11 Viandes et abats comestibles, salés ou en saumure, séchés ou fumés; farines et poudres, comestibles, de viandes ou d'abats.
+0401.10.20 Lait et crème de lait, non concentrés ni additionnés de sucre ou d'autres édulcorants.
+0402.10.20 Lait et crème de lait, concentrés ou additionnés de sucre ou d'autres édulcorants.
+0403.20.10 Yoghourt; babeurre, lait et crème caillés, képhir et autres laits et crèmes fermentés ou acidifiés, même concentrés ou additionnés de sucre ou d'autres édulcorants ou aromatisés ou additionnés de fruits ou de cacao.
+0404.10.10 Lactosérum, même concentré ou additionné de sucre ou d'autres édulcorants; produits consistant en composants naturels du lait, même additionnés de sucre ou d'autres édulcorants, non dénommés ni compris ailleurs.
+0405.10.20 Beurre et autres matières grasses provenant du lait; pâtes à tartiner laitières.
+0406.10.20 Fromages et caillebotte.
+0407.11.12 Oeufs d'oiseaux, en coquilles, frais, conservés ou cuits.
+0408.11.20 Oeufs d'oiseaux, dépourvus de leurs coquilles, et jaunes d'oeufs, frais, séchés, cuits à l'eau ou à la vapeur, moulés, congelés ou autrement conservés, même additionnés de sucre ou d'autres édulcorants.
+0409.00.00 Miel naturel.
+0702.00.10 Tomates, à l'état frais ou réfrigéré.
+0708.20.30 Légumes à cosse, écossés ou non, à l'état frais ou réfrigéré.
+0802.99.00 Autres fruits à coques, frais ou secs, même sans leurs coques ou décortiqués.
+0805.10.00 Agrumes, frais ou secs.
+0807.11.00 Melons (y compris les pastèques) et papayes, frais.
+0809.30.10 Abricots, cerises, pêches (y compris les brugnons et nectarines), prunes et prunelles, frais.
+0811.20.00 Fruits, non cuits ou cuits à l'eau ou à la vapeur, congelés, même additionnés de sucre ou d'autres édulcorants.
+0901.11.00 Café, même torréfié ou décaféiné; coques et pellicules de café; succédanés du café contenant du café, quelles que soient les proportions du mélange.
+0902.10.10 Thé, même aromatisé.
+0903.00.00 Maté.
+0904.11.00 Poivre du genre Piper; piments du genre Capsicum ou du genre Pimenta, séchés ou broyés ou pulvérisés.
+0905.10.00 Vanille.
+0906.11.00 Cannelle et fleurs de cannelier.
+0907.10.00 Girofles (antofles, clous et griffes).
+0908.11.00 Noix muscades, macis, amomes et cardamomes.
+0909.21.00 Graines d'anis, de badiane, de fenouil, de coriandre, de cumin, de carvi; baies de genièvre.
+0910.11.00 Gingembre, safran, curcuma, thym, feuilles de laurier, curry et autres épices.
+1001.19.10 Froment (blé) et méteil.
+1002.90.00 Seigle.
+1003.90.11 Orge.
+1004.90.00 Avoine.
+1006.20.00 Riz.
+1101.00.10 Farines de froment (blé) ou de méteil.
+1205.10.00 Graines de navette ou de colza, même concassées.
+1302.19.00 Sucs et extraits végétaux; matières pectiques, pectinates et pectates; agar-agar et autres mucilages et épaississants dérivés des végétaux, même modifiés.
+1504.20.00 Graisses et huiles et leurs fractions, de poissons ou de mammifères marins, même raffinées, mais non chimiquement modifiées.
+1508.10.00 Huile d'arachide et ses fractions, même raffinées, mais non chimiquement modifiées.
+1511.90.00 Huile de palme et ses fractions, même raffinées, mais non chimiquement modifiées.
+1512.19.19 Huiles de tournesol, de carthame ou de coton et leurs fractions, même raffinées, mais non chimiquement modifiées.
+1514.11.00 Huiles de navette, de colza ou de moutarde et leurs fractions, même raffinées, mais non chimiquement modifiées.
+1517.10.10 Margarine; mélanges ou préparations alimentaires de graisses ou d'huiles animales, végétales ou d'origine microbienne ou de fractions de différentes graisses ou huiles du présent Chapitre, autres que les graisses et huiles alimentaires et leurs fractions du no 15,16.
+1601.00.11 Saucisses, saucissons et produits similaires, de viande, d'abats, de sang ou d'insectes; préparations alimentaires à base de ces produits.
+1602.10.10 Autres préparations et conserves de viande, d'abats, de sang ou d'insectes.
+1605.21.00 Crustacés, mollusques et autres invertébrés aquatiques, préparés ou conservés.
+1701.12.10 Sucres de canne ou de betterave et saccharose chimiquement pur, à l'état solide.
+1702.20.00 Autres sucres, y compris le lactose, le maltose, le glucose et le fructose (lévulose) chimiquement purs, à l'état solide; sirops de sucres sans addition d'aromatisants ou de colorants; succédanés du miel, même mélangés de miel naturel; sucres et mélasses caramélisés.
+1703.10.10 Mélasses résultant de l'extraction ou du raffinage du sucre.
+1704.10.00 Sucreries sans cacao (y compris le chocolat blanc).
+1806.20.22 Chocolat et autres préparations alimentaires contenant du cacao.
+1901.20.12 Extraits de malt; préparations alimentaires de farines, gruaux, semoules, amidons, fécules ou extraits de malt, ne contenant pas de cacao ou contenant moins de 40 % en poids de cacao calculés sur une base entièrement dégraissée, non dénommées ni comprises ailleurs; préparations alimentaires de produits des nos 04,01 à 04,04, ne contenant pas de cacao ou contenant moins de 5 % en poids de cacao calculés sur une base entièrement dégraissée, non dénommées ni comprises ailleurs.
+1902.11.10 Pâtes alimentaires, même cuites ou farcies (de viande ou d'autres substances) ou bien autrement préparées, telles que spaghetti, macaroni, nouilles, lasagnes, gnocchi, ravioli, cannelloni; couscous, même préparé.
+1905.90.51 Produits de la boulangerie, de la pâtisserie ou de la biscuiterie, même additionnés de cacao; hosties, cachets vides des types utilisés pour médicaments, pains à cacheter, pâtes séchées de farine, d'amidon ou de fécule en feuilles et produits similaires.
+2001.10.00 Légumes, fruits et autres parties comestibles de plantes, préparés ou conservés au vinaigre ou à l'acide acétique.
+2008.11.10 Fruits et autres parties comestibles de plantes, autrement préparés ou conservés avec ou sans addition de sucre ou d'autres édulcorants ou d'alcool, non dénommés ni compris ailleurs.
+2009.12.00 Jus de fruits (y compris les moûts de raisin et l'eau de noix de coco) ou de légumes, non fermentés, sans addition d'alcool, avec ou sans addition de sucre ou d'autres édulcorants.
+2103.10.00 Préparations pour sauces et sauces préparées; condiments et assaisonnements, composés; farine de moutarde et moutarde préparée.
+2104.10.00 Préparations pour soupes, potages ou bouillons; soupes, potages ou bouillons préparés; préparations alimentaires composites homogénéisées.
+2105.00.92 Glaces de consommation, même contenant du cacao.
+2106.90.21 Préparations alimentaires non dénommées ni comprises ailleurs.
+2202.10.00 Eaux, y compris les eaux minérales et les eaux gazéifiées, additionnées de sucre ou d'autres édulcorants ou aromatisées, et autres boissons non alcooliques, à l'exclusion des jus de fruits ou de légumes du no 20,09.
+2203.00.00 Bières de malt.
+2204.10.10 Vins de raisins frais, y compris les vins enrichis en alcool; moûts de raisin autres que ceux du no 20,09.
+2205.10.10 Vermouths et autres vins de raisins frais préparés à l'aide de plantes ou de substances aromatiques.
+2206.00.11 Autres boissons fermentées (cidre, poiré, hydromel, saké, par exemple); mélanges de boissons fermentées et mélanges de boissons fermentées et de boissons non alcooliques, non dénommés ni compris ailleurs.
+2208.20.00 Alcool éthylique non dénaturé d'un titre alcoométrique volumique de moins de 80 % vol; eaux-de-vie, liqueurs et autres boissons spiritueuses.
+2309.90.32 Préparations des types utilisés pour l'alimentation des animaux.
+2401.10.10 Tabacs bruts ou non fabriqués; déchets de tabac.
+2402.10.00 Cigares (y compris ceux à bouts coupés), cigarillos et cigarettes, en tabac ou en succédanés de tabac.
+2403.11.00 Autres tabacs et succédanés de tabac, fabriqués; tabacs « homogénéisés » ou « reconstitués »; extraits et sauces de tabac.
+2404.11.10 Produits contenant du tabac, du tabac reconstitué, de la nicotine ou des succédanés de tabac ou de nicotine, destinés à une inhalation sans combustion; autres produits contenant de la nicotine, destinés à l'absorption de la nicotine dans le corps humain.
+2505.10.00 Sables naturels de toute espèce, même colorés, à l'exclusion des sables métallifères du Chapitre 26.
+3303.00.00 Parfums et eaux de toilette.
+3304.10.00 Produits de beauté ou de maquillage préparés et préparations pour l'entretien ou les soins de la peau, autres que les médicaments, y compris les préparations antisolaires et les préparations pour bronzer; préparations pour manucures ou pédicures.
+3305.10.00 Préparations capillaires.
+3306.10.00 Préparations pour l'hygiène buccale ou dentaire, y compris les poudres et crèmes pour faciliter l'adhérence des dentiers; fils utilisés pour nettoyer les espaces interdentaires (fils dentaires), en emballages individuels de détail.
+3307.10.00 Préparations pour le prérasage, le rasage ou l'après-rasage, désodorisants corporels, préparations pour bains, dépilatoires, autres produits de parfumerie ou de toilette préparés et autres préparations cosmétiques, non dénommés ni compris ailleurs; désodorisants de locaux, préparés, même non parfumés, ayant ou non des propriétés désinfectantes.
+3401.11.10 Savons; produits et préparations organiques tensio-actifs à usage de savon, en barres, en pains, en morceaux ou en sujets frappés, même contenant du savon; produits et préparations organiques tensio-actifs destinés au lavage de la peau, sous forme de liquide ou de crème, conditionnés pour la vente au détail, même contenant du savon; papier, ouates, feutres et nontissés, imprégnés, enduits ou recouverts de savon ou de détergents.
+3501.10.00 Caséines, caséinates et autres dérivés des caséines; colles de caséine.
+3502.11.20 Albumines (y compris les concentrats de plusieurs protéines de lactosérum, contenant, en poids calculé sur matière sèche, plus de 80 % de protéines de lactosérum), albuminates et autres dérivés des albumines.
+3504.00.12 Peptones et leurs dérivés; autres matières protéiques et leurs dérivés, non dénommés ni compris ailleurs; poudre de peau, traitée ou non au chrome.
+3918.10.10 Revêtements de sols en matières plastiques, même auto-adhésifs, en rouleaux ou sous formes de carreaux ou de dalles; revêtements de murs ou de plafonds en matières plastiques définis dans la Note 9 du présent Chapitre.
+3919.10.99 Plaques, feuilles, bandes, rubans, pellicules et autres formes plates, auto-adhésifs, en matières plastiques, même en rouleaux.
+3922.10.00 Baignoires, douches, éviers, lavabos, bidets, cuvettes d'aisance et leurs sièges et couvercles, réservoirs de chasse et articles similaires pour usages sanitaires ou hygiéniques, en matières plastiques.
+3923.21.90 Articles de transport ou d'emballage, en matières plastiques; bouchons, couvercles, capsules et autres dispositifs de fermeture, en matières plastiques.
+3924.10.00 Vaisselle, autres articles de ménage ou d'économie domestique et articles d'hygiène ou de toilette, en matières plastiques.
+3925.10.00 Articles d'équipement pour la construction, en matières plastiques, non dénommés ni compris ailleurs.
+4011.10.00 Pneumatiques neufs, en caoutchouc.
+4012.11.00 Pneumatiques rechapés ou usagés en caoutchouc; bandages, bandes de roulement pour pneumatiques et « flaps » en caoutchouc.
+4016.91.00 Autres ouvrages en caoutchouc vulcanisé non durci.
+4201.00.10 Articles de sellerie ou de bourrellerie pour tous animaux (y compris les traits, laisses, genouillères, muselières, tapis de selles, fontes, manteaux pour chiens et articles similaires), en toutes matières.
+4202.11.00 Malles, valises et mallettes, y compris les mallettes de toilette et les mallettes porte-documents, serviettes, cartables, étuis à lunettes, étuis pour jumelles, appareils photographiques, caméras, instruments de musique ou armes et contenants similaires; sacs de voyage, sacs isolants pour produits alimentaires et boissons, trousses de toilette, sacs à dos, sacs à main, sacs à provisions, portefeuilles, porte-monnaie, porte-cartes, étuis à cigarettes, blagues à tabac, trousses à outils, sacs pour articles de sport, boîtes pour flacons ou bijoux, boîtes à poudre, écrins pour orfèvrerie et contenants similaires, en cuir naturel ou reconstitué, en feuilles de matières plastiques, en matières textiles, en fibre vulcanisée ou en carton, ou recouverts, en totalité ou en majeure partie, de ces mêmes matières ou de papier.
+4203.10.00 Vêtements et accessoires du vêtement en cuir naturel ou reconstitué.
+4205.00.00 Autres ouvrages en cuir naturel ou reconstitué.
+4206.00.10 Ouvrages en boyaux, en baudruches, en vessies ou en tendons.
+4407.11.00 Bois sciés ou dédossés longitudinalement, tranchés ou déroulés, même rabotés, poncés ou collés par assemblage en bout, d'une épaisseur excédant 6 mm.
+4408.10.00 Feuilles pour placage (y compris celles obtenues par tranchage de bois stratifié), feuilles pour contre-plaqués ou pour bois stratifiés similaires et autres bois, sciés longitudinalement, tranchés ou déroulés, même rabotés, poncés, assemblés bord à bord ou en bout, d'une épaisseur n'excédant pas 6 mm.
+4409.10.00 Bois (y compris les lames et frises à parquet, non assemblées) profilés (languetés, rainés, bouvetés, feuillurés, chanfreinés, joints en V, moulurés, arrondis ou similaires) tout au long d'une ou de plusieurs rives, faces ou bouts, même rabotés, poncés ou collés par assemblage en bout.
+4410.11.00 Panneaux de particules, panneaux dits « oriented strand board » (OSB) et panneaux similaires (par exemple « waferboards »), en bois ou en autres matières ligneuses, même agglomérées avec des résines ou d'autres liants organiques.
+4411.12.00 Panneaux de fibres de bois ou d'autres matières ligneuses, même agglomérées avec des résines ou d'autres liants organiques.
+4412.10.00 Bois contre-plaqués, bois plaqués et bois stratifiés similaires.
+4418.11.10 Ouvrages de menuiserie et pièces de charpente pour construction, y compris les panneaux cellulaires, les panneaux assemblés pour revêtement de sol et les bardeaux (« shingles » et « shakes »), en bois.
+4701.00.00 Pâtes mécaniques de bois.
+4702.00.00 Pâtes chimiques de bois, à dissoudre.
+4817.10.00 Enveloppes, cartes-lettres, cartes postales non illustrées et cartes pour correspondance, en papier ou carton; boîtes, pochettes et présentations similaires, en papier ou carton, renfermant un assortiment d'articles de correspondance.
+4818.10.00 Papiers des types utilisés pour papiers de toilette et pour papiers similaires, ouate de cellulose ou nappes de fibres de cellulose, des types utilisés à des fins domestiques ou sanitaires, en rouleaux d'une largeur n'excédant pas 36 cm, ou coupés à format; mouchoirs, serviettes à démaquiller, essuie-mains, nappes, serviettes de table, draps de lit et articles similaires à usages domestiques, de toilette, hygiénique ou hospitaliers, vêtements et accessoires du vêtement, en pâte à papier, papier, ouate de cellulose ou nappes de fibres de cellulose.
+4819.10.00 Boîtes, sacs, pochettes, cornets et autres emballages en papier, carton, ouate de cellulose ou nappes de fibres de cellulose; cartonnages de bureau, de magasin ou similaires.
+4820.10.00 Registres, livres comptables, carnets (de notes, de commandes, de quittances), agendas, blocs-mémorandums, blocs de papier à lettres et ouvrages similaires, cahiers, sous-main, classeurs, reliures (à feuillets mobiles ou autres), chemises et couvertures à dossiers et autres articles scolaires, de bureau ou de papeterie, y compris les liasses et carnets manifold, même comportant des feuilles de papier carbone, en papier ou carton; albums pour échantillonnages ou pour collections et couvertures pour livres, en papier ou carton.
+4823.69.00 Autres papiers, cartons, ouate de cellulose et nappes de fibres de cellulose découpés à format; autres ouvrages en pâte à papier, papier, carton, ouate de cellulose ou nappes de fibres de cellulose.
+4911.10.00 Autres imprimés, y compris les images, les gravures et les photographies.
+5701.10.10 Tapis en matières textiles, à points noués ou enroulés, même confectionnés.
+5702.10.00 Tapis et autres revêtements de sol en matières textiles, tissés, non touffetés ni floqués, même confectionnés, y compris les tapis dits « Kelim » ou « Kilim », « Schumacks » ou « Soumak », « Karamanie » et tapis similaires tissés à la main.
+5703.10.10 Tapis et autres revêtements de sol en matières textiles (y compris le gazon), touffetés, même confectionnés.
+5704.10.00 Tapis et autres revêtements de sol, en feutre, non touffetés ni floqués, même confectionnés.
+5705.00.00 Autres tapis et revêtements de sol en matières textiles, même confectionnés.
+6101.20.00 Manteaux, cabans, capes, anoraks, blousons et articles similaires en bonneterie, pour hommes ou garçonnets, à l'exclusion des articles du no 61,03.
+6102.10.00 Manteaux, cabans, capes, anoraks, blousons et articles similaires, en bonneterie, pour femmes ou fillettes, à l'exclusion des articles du no 61,04.
+6103.10.10 Costumes ou complets, ensembles, vestons, pantalons, salopettes à bretelles, culottes et shorts (autres que pour le bain), en bonneterie, pour hommes ou garçonnets.
+6104.13.00 Costumes tailleurs, ensembles, vestes, robes, jupes, jupes-culottes, pantalons, salopettes à bretelles, culottes et shorts (autres que pour le bain), en bonneterie, pour femmes ou fillettes.
+6105.10.00 Chemises et chemisettes, en bonneterie, pour hommes ou garçonnets.
+6106.10.00 Chemisiers, blouses, blouses-chemisiers et chemisettes, en bonneterie, pour femmes ou fillettes.
+6107.11.00 Slips, caleçons, chemises de nuit, pyjamas, peignoirs de bain, robes de chambre et articles similaires, en bonneterie, pour hommes ou garçonnets.
+6108.11.00 Combinaisons ou fonds de robes, jupons, slips, chemises de nuit, pyjamas, déshabillés, peignoirs de bain, robes de chambre et articles similaires, en bonneterie, pour femmes ou fillettes.
+6109.10.00 T-shirts et maillots de corps, en bonneterie.
+6110.11.10 Chandails, pull-overs, cardigans, gilets et articles similaires, y compris les sous-pulls, en bonneterie.
+6111.20.00 Vêtements et accessoires du vêtement, en bonneterie, pour bébés.
+6112.11.00 Survêtements de sport (trainings), combinaisons et ensembles de ski, maillots, culottes et slips de bain, en bonneterie.
+6113.00.10 Vêtements confectionnés en étoffes de bonneterie des nos 59,03, 59,06 ou 59,07.
+6114.20.00 Autres vêtements, en bonneterie.
+6115.10.10 Collants (bas-culottes), bas, mi-bas, chaussettes et autres articles chaussants, y compris les collants (bas-culottes), bas et mi-bas à compression dégressive (les bas à varices, par exemple), en bonneterie.
+6116.10.00 Gants, mitaines et moufles, en bonneterie.
+6117.10.10 Autres accessoires confectionnés du vêtement, en bonneterie; parties de vêtements ou d'accessoires du vêtement, en bonneterie.
+6201.20.00 Manteaux, cabans, capes, anoraks, blousons et articles similaires, pour hommes ou garçonnets, à l'exclusion des articles du no 62,03.
+6202.20.00 Manteaux, cabans, capes, anoraks, blousons et articles similaires, pour femmes ou fillettes, à l'exclusion des articles du no 62,04.
+6203.11.00 Costumes ou complets, ensembles, vestons, pantalons, salopettes à bretelles, culottes et shorts (autres que pour le bain), pour hommes ou garçonnets.
+6204.11.00 Costumes tailleurs, ensembles, vestes, robes, jupes, jupes-culottes, pantalons, salopettes à bretelles, culottes et shorts (autres que pour le bain), pour femmes ou fillettes.
+6205.20.00 Chemises et chemisettes, pour hommes ou garçonnets.
+6206.10.00 Chemisiers, blouses, blouses-chemisiers et chemisettes, pour femmes ou fillettes.
+6207.11.00 Gilets de corps, slips, caleçons, chemises de nuit, pyjamas, peignoirs de bain, robes de chambre et articles similaires, pour hommes ou garçonnets.
+6208.11.00 Gilets de corps et chemises de jour, combinaisons ou fonds de robes, jupons, slips, chemises de nuit, pyjamas, déshabillés, peignoirs de bain, robes de chambre et articles similaires, pour femmes ou fillettes.
+6209.20.00 Vêtements et accessoires du vêtement pour bébés.
+6210.10.10 Vêtements confectionnés en produits des nos 56,02, 56,03, 59,03, 59,06 ou 59,07.
+6211.11.00 Survêtements de sport (trainings), combinaisons et ensembles de ski maillots, culottes et slips de bain; autres vêtements.
+6212.10.00 Soutiens-gorge, gaines, corsets, bretelles, jarretelles, jarretières et articles similaires et leurs parties, même en bonneterie.
+6213.20.00 Mouchoirs et pochettes.
+6214.10.10 Châles, écharpes, foulards, cache-nez, cache-col, mantilles, voiles et voilettes, et articles similaires.
+6215.10.00 Cravates, noeuds papillons et foulards cravates.
+6216.00.00 Gants, mitaines et moufles.
+6217.10.00 Autres accessoires confectionnés du vêtement; parties de vêtements ou d'accessoires du vêtement, autres que celles du no 62,12.
+6301.10.00 Couvertures.
+6302.10.00 Linge de lit, de table, de toilette ou de cuisine.
+6303.12.00 Vitrages, rideaux et stores d'intérieur; cantonnières et tours de lits.
+6304.11.00 Autres articles d'ameublement, à l'exclusion de ceux du no 94,04.
+6305.10.00 Sacs et sachets d'emballage.
+6306.12.00 Bâches et stores d'extérieur; tentes (y compris les tonnelles temporaires et articles similaires); voiles pour embarcations, planches à voile ou chars à voile; articles de campement.
+6307.10.10 Autres articles confectionnés, y compris les patrons de vêtements.
+6308.00.00 Assortiments composés de pièces de tissus et de fils, même avec accessoires, pour la confection de tapis, de tapisseries, de nappes de table ou de serviettes brodées, ou d'articles textiles similaires, en emballages pour la vente au détail.
+6309.00.10 Articles de friperie.
+6310.10.00 Chiffons, ficelles, cordes et cordages, en matières textiles, sous forme de déchets ou d'articles hors d'usage.
+6401.10.11 Chaussures étanches à semelles extérieures et dessus en caoutchouc ou en matière plastique, dont le dessus n'a été ni réuni à la semelle extérieure par couture ou par des rivets, des clous, des vis, des tétons ou des dispositifs similaires, ni formé de différentes parties assemblées par ces mêmes procédés.
+6402.12.00 Autres chaussures à semelles extérieures et dessus en caoutchouc ou en matière plastique.
+6403.12.00 Chaussures à semelles extérieures en caoutchouc, matière plastique, cuir naturel ou reconstitué et dessus en cuir naturel.
+6404.11.11 Chaussures à semelles extérieures en caoutchouc, matière plastique, cuir naturel ou reconstitué et dessus en matières textiles.
+6405.10.10 Autres chaussures.
+6504.00.10 Chapeaux et autres coiffures, tressés ou fabriqués par l'assemblage de bandes en toutes matières, même garnis.
+6505.00.10 Chapeaux et autres coiffures en bonneterie ou confectionnés à l'aide de dentelles, de feutre ou d'autres produits textiles, en pièces (mais non en bandes), même garnis; résilles et filets à cheveux en toutes matières, même garnis.
+6506.10.10 Autres chapeaux et coiffures, même garnis.
+6910.10.10 Éviers, lavabos, colonnes de lavabos, baignoires, bidets, cuvettes d'aisance, réservoirs de chasse, urinoirs et appareils fixes similaires pour usages sanitaires, en céramique.
+7013.10.00 Objets en verre pour le service de la table, pour la cuisine, la toilette, le bureau, l'ornementation des appartements ou usages similaires (autres que ceux des nos 70,10 ou 70,18).
+7102.39.00 Diamants, même travaillés, mais non montés ni sertis.
+7106.91.00 Argent (y compris l'argent doré ou vermeil et l'argent platiné), sous formes brutes ou mi-ouvrées, ou en poudre.
+7110.21.00 Platine, sous formes brutes ou mi-ouvrées, ou en poudre.
+7113.11.10 Articles de bijouterie ou de joaillerie et leurs parties, en métaux précieux ou en plaqués ou doublés de métaux précieux.
+7115.90.00 Autres ouvrages en métaux précieux ou en plaqués ou doublés de métaux précieux.
+7117.19.90 Bijouterie de fantaisie.
+7321.11.10 Poêles, chaudières à foyer, cuisinières (y compris ceux pouvant être utilisés accessoirement pour le chauffage central), barbecues, braseros, réchauds à gaz, chauffe-plats et appareils non électriques similaires, à usage domestique, ainsi que leurs parties, en fonte, fer ou acier.
+8202.10.00 Scies à main; lames de scies de toutes sortes (y compris les fraises-scies et les lames non dentées pour le sciage).
+8203.20.00 Limes, râpes, pinces (même coupantes), tenailles, brucelles, cisailles à métaux, coupe-tubes, coupe-boulons, emporte-pièce et outils similaires, à main.
+8204.11.00 Clés de serrage à main (y compris les clés dynamométriques); douilles de serrage interchangeables, même avec manches.
+8205.10.10 Outils et outillage à main (y compris les diamants de vitriers) non dénommés ni compris ailleurs; lampes à souder et similaires; étaux, serre-joints et similaires, autres que ceux constituant des accessoires ou des parties de machines-outils ou de machines à découper par jet d'eau; enclumes; forges portatives; meules avec bâtis, à main ou à pédale.
+8206.00.00 Outils d'au moins deux des nos 82,02 à 82,05, conditionnés en assortiments pour la vente au détail.
+8211.10.10 Couteaux (autres que ceux du no 82,08) à lame tranchante ou dentelée, y compris les serpettes fermantes, et leurs lames.
+8212.10.00 Rasoirs et leurs lames (y compris les ébauches en bandes).
+8213.00.10 Ciseaux à doubles branches et leurs lames.
+8214.10.00 Autres articles de coutellerie (tondeuses, fendoirs, couperets, hachoirs de bouchers ou de cuisine et coupe-papier, par exemple); outils et assortiments d'outils de manucures ou de pédicures (y compris les limes à ongles).
+8215.10.10 Cuillers, fourchettes, louches, écumoires, pelles à tartes, couteaux spéciaux à poisson ou à beurre, pinces à sucre et articles similaires.
+8301.10.00 Cadenas, serrures et verrous (à clef, à secret ou électriques), en métaux communs; fermoirs et montures-fermoirs comportant une serrure, en métaux communs; clefs pour ces articles, en métaux communs.
+8302.50.00 Garnitures, ferrures et articles similaires en métaux communs pour meubles, portes, escaliers, fenêtres, persiennes, carrosseries, articles de sellerie, malles, coffres, coffrets ou autres ouvrages de l'espèce; patères, porte-chapeaux, supports et articles similaires, en métaux communs; roulettes avec monture en métaux communs; ferme-portes automatiques en métaux communs.
+8414.51.10 Pompes à air ou à vide, compresseurs d'air ou d'autres gaz et ventilateurs; hottes aspirantes à extraction ou à recyclage, à ventilateur incorporé, même filtrantes; enceintes de sécurité biologique étanches aux gaz, même filtrantes.
+8418.10.10 Réfrigérateurs, congélateurs-conservateurs et autres matériel, machines et appareils pour la production du froid, à équipement électrique ou autre; pompes à chaleur autres que les machines et appareils pour le conditionnement de l'air du no 84,15.
+8419.81.00 Appareils, dispositifs ou équipements de laboratoire, même chauffés électriquement (à l'exclusion des fours et autres appareils du no 85,14), pour le traitement de matières par des opérations impliquant un changement de température telles que le chauffage, la cuisson, la torréfaction, la distillation, la rectification, la stérilisation, la pasteurisation, l'étuvage, le séchage, l'évaporation, la vaporisation, la condensation ou le refroidissement, autres que les appareils domestiques; chauffe-eau non électriques, à chauffage instantané ou à accumulation.
+8422.11.10 Machines à laver la vaisselle; machines et appareils servant à nettoyer ou à sécher les bouteilles ou autres récipients; machines et appareils à remplir, fermer, boucher ou étiqueter les bouteilles, boîtes, sacs ou autres contenants; machines et appareils à capsuler les bouteilles, pots, tubes et contenants analogues; autres machines et appareils à empaqueter ou emballer les marchandises (y compris les machines et appareils à emballer sous film thermorétractable); machines et appareils à gazéifier les boissons.
+8430.20.00 Autres machines et appareils de terrassement, nivellement, décapage, excavation, compactage, extraction ou forage de la terre, des minéraux ou des minerais; sonnettes de battage et machines pour l'arrachage des pieux; chasse-neige.
+8433.11.00 Machines, appareils et engins pour la récolte ou le battage des produits agricoles, y compris les presses à paille ou à fourrage; tondeuses à gazon et faucheuses; machines pour le nettoyage ou le triage des oeufs, fruits ou autres produits agricoles, autres que les machines et appareils du no 84,37.
+8450.11.10 Machines à laver le linge, même avec dispositif de séchage.
+8451.21.00 Machines et appareils (autres que les machines du no 84,50) pour le lavage, le nettoyage, l'essorage, le séchage, le repassage, le pressage (y compris les presses à fixer), le blanchiment, la teinture, l'apprêt, le finissage, l'enduction ou l'imprégnation des fils, tissus ou ouvrages en matières textiles et machines pour le revêtement des tissus ou autres supports utilisés pour la fabrication de couvre-parquets tels que le linoléum; machines à enrouler, dérouler, plier, couper ou denteler les tissus.
+8467.11.00 Outils pneumatiques, hydrauliques ou à moteur (électrique ou non électrique) incorporé, pour emploi à la main.
+8508.11.00 Aspirateurs.
+8509.40.10 Appareils électromécaniques à moteur électrique incorporé, à usage domestique, autres que les aspirateurs du no 85,08.
+8510.10.00 Rasoirs et tondeuses et appareils à épiler, à moteur électrique incorporé.
+8516.31.00 Chauffe-eau et thermoplongeurs électriques; appareils électriques pour le chauffage des locaux, du sol ou pour usages similaires; appareils électrothermiques pour la coiffure (sèche-cheveux, appareils à friser, chauffe-fers à friser, par exemple) ou pour sécher les mains; fers à repasser électriques; autres appareils électrothermiques pour usages domestiques; résistances chauffantes, autres que celles du no 85,45.
+8543.40.00 Machines et appareils électriques ayant une fonction propre, non dénommés ni compris ailleurs dans le présent Chapitre.
+8711.10.00 Motocycles (y compris les cyclomoteurs) et cycles équipés d'un moteur auxiliaire, avec ou sans side-cars; side-cars.
+8806.10.00 Véhicules aériens sans pilote.
+9302.00.00 Revolvers et pistolets, autres que ceux des nos 93,03 ou 93,04.
+9303.10.00 Autres armes à feu et engins similaires utilisant la déflagration de la poudre (fusils et carabines de chasse, armes à feu ne pouvant être chargées que par le canon, pistolets lance-fusées et autres engins conçus uniquement pour lancer des fusées de signalisation, pistolets et revolvers pour le tir à blanc, pistolets d'abattage à cheville, canons lance-amarres, par exemple).
+9304.00.10 Autres armes (fusils, carabines et pistolets à ressort, à air comprimé ou à gaz, matraques, par exemple), à l'exclusion de celles du no 93,07.
+9306.21.00 Bombes, grenades, torpilles, mines, missiles, cartouches et autres munitions et projectiles, et leurs parties, y compris les chevrotines, plombs de chasse et bourres pour cartouches.
+9401.31.10 Sièges (à l'exclusion de ceux du no 94,02), même transformables en lits, et leurs parties.
+9403.10.00 Autres meubles et leurs parties.
+9404.10.00 Sommiers; articles de literie et articles similaires (matelas, couvre-pieds, édredons, coussins, poufs, oreillers, par exemple) comportant des ressorts ou bien rembourrés ou garnis intérieurement de toutes matières, y compris ceux en caoutchouc alvéolaire ou en matières plastiques alvéolaires, recouverts ou non.
+9405.11.00 Luminaires et appareils d'éclairage (y compris les projecteurs) et leurs parties, non dénommés ni compris ailleurs; lampes-réclames, enseignes lumineuses, plaques indicatrices lumineuses et articles similaires, possédant une source d'éclairage fixée à demeure, et leurs parties non dénommées ni comprises ailleurs.
+9504.30.00 Consoles et machines de jeux vidéo, jeux de société, y compris les jeux à moteur ou à mouvement, les billards, les tables spéciales pour jeux de casino, les jeux de quilles automatiques (bowlings, par exemple), les jeux fonctionnant par l'introduction d'une pièce de monnaie, d'un billet de banque, d'une carte bancaire, d'un jeton ou par tout autre moyen de paiement.
+9613.10.00 Briquets et allumeurs (à l'exclusion des allumeurs du no 36,03), même mécaniques ou électriques, et leurs parties autres que les pierres et les mèches.
+9701.91.10 Tableaux, peintures et dessins, faits entièrement à la main, à l'exclusion des dessins du no 49,06 et des articles manufacturés décorés à la main; collages, mosaïques et tableautins similaires.
