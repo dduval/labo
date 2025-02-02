@@ -39,7 +39,7 @@ jobs:
     steps:
       - uses: myConsciousness/bluesky-post@v5
         with:
-          text: "Nouveau Post!🎉 - ${{ github.event.issue.title }}"
+          text: "Nouveau Post de GitHub!🎉 - ${{ github.event.issue.title }}"
           link-preview-url: "${{ github.event.issue.body }}"
           identifier: ${{ secrets.BLUESKY_HANDLE }}
           password: ${{ secrets.BLUESKY_PASSWORD }}
