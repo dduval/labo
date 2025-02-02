@@ -1,0 +1,47 @@
+name: Post to Bluesky and X on Issue Closed
+
+on:
+  issues:
+    types: [closed]  # Only trigger on closed issues
+  label:
+    types: [added]  # Trigger when label is added
+    label: Blog  # Only trigger when the label is "Blog"
+
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: 'Log level'
+        required: true
+        default: 'warning'
+        type: choice
+        options:
+        - info
+        - warning
+        - debug
+      tags:
+        description: 'Test scenario tags'
+        required: false
+        type: boolean
+
+jobs:
+  log-the-inputs:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          echo "Log level: $LEVEL"
+          echo "Tags: $TAGS"
+        env:
+          LEVEL: ${{ inputs.logLevel }}
+          TAGS: ${{ inputs.tags }}
+
+  post-to-bluesky:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: myConsciousness/bluesky-post@v5
+        with:
+          text: "Nouveau Post!🎉 - ${{ github.event.issue.title }}"
+          link-preview-url: "${{ github.event.issue.body }}"
+          identifier: ${{ secrets.BLUESKY_HANDLE }}
+          password: ${{ secrets.BLUESKY_PASSWORD }}
+
+
